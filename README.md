@@ -19,6 +19,7 @@ Copy tgwebappdata and save it in initdata.txt
 python main.py
 
 **Features**
+
 Auto Upgrade Hammer
 
 Auto Upgrade Egg
@@ -35,6 +36,7 @@ Multi Account Support
 
 
 
+==============
 
 **Screenshots**
 
