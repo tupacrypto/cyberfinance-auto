@@ -20,12 +20,19 @@ python main.py
 
 **Features**
 Auto Upgrade Hammer
+
 Auto Upgrade Egg
+
 Auto Claim
+
 Auto Clear Task
+
 Auto Refresh Token
+
 Add Limit Upgrade
+
 Multi Account Support
+
 
 
 
